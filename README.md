@@ -12,3 +12,4 @@ The problem to be solved here is that the cluster algorithm is able to cluster c
 - Premium --> The amount of premium to be paid per year.
 - Channel_Sales --> Channel code to contact customers (email, telephone, etc.)
 - Duration_Subscription --> How long has the customer been a client of the company
+- Interested --> 1 : Customers are interested, 0 : Customers are not interested
